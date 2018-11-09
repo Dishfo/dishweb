@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Dish>
+  <port>8080</port>
+  <Web>
+    <Host>
+      <address>ANY_LOCAL</address>
+      <context>
+        <contextPath>/test</contextPath>
+        <basePath>./webapp/servlettest_Web_exploded</basePath>
+      </context>
+    </Host>
+  </Web>
+</Dish>
